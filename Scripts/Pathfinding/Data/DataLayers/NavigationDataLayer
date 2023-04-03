@@ -1,0 +1,8 @@
+
+namespace CustomAiNavigation.Zone.Data{
+    abstract class NavigationDataLayer<T>{ 
+        public abstract void SetData(NavigationSample sample, T data);    
+        public abstract T GetData(NavigationSample sample);
+        public abstract T GetDataInterp(NavigationData sample0, NavigationData sample1, float t);
+    }
+}

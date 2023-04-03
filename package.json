@@ -1,0 +1,19 @@
+{
+  "name": "com.cr4zyri0s.aisolution",
+  "version": "0.0.1",
+  "displayName": "AI Solution",
+  "description": "AI Solution for autonomous agents using different state of the art techniques made by Cr4zyRi0s.",
+  "unity": "2021.1",
+ "keywords": [
+    "ai",
+    "agent",
+    "positioning",
+    "pathfinding",
+    "behaviourtree",
+    "statemachine"
+  ],
+  "author": {
+    "name": "Cr4zyRi0s",
+    "email": "Cr4zyRi0s.channel@gmail.com"    
+  }
+}

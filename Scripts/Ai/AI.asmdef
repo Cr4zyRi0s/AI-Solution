@@ -1,0 +1,21 @@
+{
+    "name": "AI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:22ec0116802c246419d2a2715a4b73a6",
+        "GUID:41fddd7a457c6b5409d561520339ecf1"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "WindowsStandalone32",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Pathfinding",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7ab8199eebbc76d49b37d107ab1955b8",
+        "GUID:8a4f8a20625876e448179e5632d45295",
+        "GUID:b93f844d45cfcc44fa2b0eed5c9ec6bb",
+        "GUID:88be7b9c8b4298441a7a1af54fb47088",
+        "GUID:806e2cf22a373e04ba039c75ba57d525"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
